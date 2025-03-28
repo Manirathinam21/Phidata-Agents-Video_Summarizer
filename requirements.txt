@@ -3,3 +3,7 @@ phidata
 duckduckgo-search
 streamlit
 google-generativeai
+yfinance
+packaging
+groq
+openai
