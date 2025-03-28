@@ -16,4 +16,7 @@ pip install -r requirements.txt
 3. create .env file and store required API keys
 ```bash
 GOOGLE_API_KEY= '####----#####'
+GROQ_API_KEY= '####----#####'
+PHI_API_KEY= '####----#####'
+OPENAI_API_KEY= '####----####
 ```
